@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @papippp
+- 👋 Hi, I’m Daramola Lukmon
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... full-stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m a full-stack developer 
+- 💞️ I’m looking to collaborate on ... react, node.js , express js, postgres, sql
+- 📫 How to reach me ... dlukzy@gamil.com, +77474246303
+- 😄 Pronouns: ... ppp
+- ⚡ Fun fact: ... I will never stop 
 
 <!---
 papippp/papippp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
