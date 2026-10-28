@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m a full-stack developer 
 - 💞️ I’m looking to collaborate on ... react, node.js , express js, postgres, sql
-- 📫 How to reach me ... dlukzy@gamil.com, +77474246303
+- 📫 How to reach me ... dlukzy@gamil.com, +2347078628353
 - 😄 Pronouns: ... ppp
 - ⚡ Fun fact: ... I will never stop 
 
